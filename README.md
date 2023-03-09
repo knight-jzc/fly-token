@@ -1,9 +1,12 @@
 # fly-token
+
+<center># fly-token 1.0<center>
 ![Github stars](https://img.shields.io/github/stars/Knight_jzc/fly-token?style=Rating)
 ![Github forks](https://img.shields.io/github/forks/Knight_jzc/fly-token?style=Rating)
 ![Github watchers](https://img.shields.io/github/watchers/Knight_jzc/fly-token?style=Rating)
 ![Github License](https://img.shields.io/hexpm/l/:Apache-2.0?style=License)
 
+---
 
 #### 介绍
 fly-token是一款基于SpringSecurity的分布式架构身份认证系统，欢迎大家一起贡献源码，一起成长！

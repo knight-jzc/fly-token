@@ -1,7 +1,7 @@
 # fly-token 1.0
 
 
-![Github stars](https://img.shields.io/github/stars/dromara/Sa-Token?style=plastic&logo=github&color=green)   ![Github forks](https://img.shields.io/github/forks/dromara/Sa-Token?style=plastic&logo=github)   ![Github watchers](https://img.shields.io/github/watchers/dromara/Sa-Token?style=plastic&logo=github)   ![Github License](https://img.shields.io/aur/license/Apache-2.0?style=plastic&logo=appveyor)
+![Github stars](https://img.shields.io/github/stars/knight-jzc/java-rabbitmq?style=plastic&logo=github&color=green)   ![Github forks](https://img.shields.io/github/forks/dromara/Sa-Token?style=plastic&logo=github)   ![Github watchers](https://img.shields.io/github/watchers/dromara/Sa-Token?style=plastic&logo=github)   ![Github License](https://img.shields.io/aur/license/Apache-2.0?style=plastic&logo=appveyor)
 
 ---
 

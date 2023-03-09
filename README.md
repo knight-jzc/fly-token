@@ -1,7 +1,7 @@
 # fly-token 1.0
 
 
-![Github stars](https://img.shields.io/github/stars/Knight_jzc/fly-token?style=Rating)   ![Github forks](https://img.shields.io/github/forks/Knight_jzc/fly-token?style=Rating)   ![Github watchers](https://img.shields.io/github/watchers/Knight_jzc/fly-token?style=Rating)   ![Github License](https://img.shields.io/aur/license/Apache-2.0?style=plastic&logo=appveyor)
+![Github stars](https://img.shields.io/github/stars/Knight_jzc/fly-token?style=plastic&logo=github)   ![Github forks](https://img.shields.io/github/forks/Knight_jzc/fly-token?style=plastic&logo=github)   ![Github watchers](https://img.shields.io/github/watchers/Knight_jzc/fly-token?style=plastic&logo=github)   ![Github License](https://img.shields.io/aur/license/Apache-2.0?style=plastic&logo=appveyor)
 
 ---
 

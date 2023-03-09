@@ -1,4 +1,5 @@
 # fly-token
+![Github stars](https://img.shields.io/github/stars/DWCTOD/interview.svg)
 
 #### 介绍
 fly-token是一款基于SpringSecurity的分布式架构身份认证系统，欢迎大家一起贡献源码，一起成长！

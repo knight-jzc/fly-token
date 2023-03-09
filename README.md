@@ -1,7 +1,7 @@
 # fly-token
-![Github stars](https://img.shields.io/github/stars/Knight_jzc/fly-token?style=Rating)
-![Github forks](https://img.shields.io/github/forks/Knight_jzc/fly-token?style=Rating)
-![Github watchers](https://img.shields.io/github/watchers/Knight_jzc/fly-token?style=Rating)
+![Github stars](https://img.shields.io/github/stars/dromara/Sa-Token?style=Rating)
+![Github forks](https://img.shields.io/github/forks/dromara/Sa-Token?style=Rating)
+![Github watchers](https://img.shields.io/github/watchers/dromara/Sa-Token?style=Rating)
 
 
 #### 介绍

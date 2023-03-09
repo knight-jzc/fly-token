@@ -1,6 +1,6 @@
-# fly-token
+<center># fly-token 1.0</center>
 
-<center># fly-token 1.0<center>
+
 ![Github stars](https://img.shields.io/github/stars/Knight_jzc/fly-token?style=Rating)
 ![Github forks](https://img.shields.io/github/forks/Knight_jzc/fly-token?style=Rating)
 ![Github watchers](https://img.shields.io/github/watchers/Knight_jzc/fly-token?style=Rating)

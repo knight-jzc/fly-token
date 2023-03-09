@@ -3,7 +3,7 @@
 
 ![Github stars](https://img.shields.io/github/stars/knight-jzc/fly-token?style=plastic&logo=github&color=yellow)   ![Github forks](https://img.shields.io/github/forks/knight-jzc/fly-token?style=plastic&logo=github&color=brightgreen)   ![Github watchers](https://img.shields.io/github/watchers/knight-jzc/fly-token?style=plastic&logo=github)   ![Github License](https://img.shields.io/github/license/knight-jzc/fly-token?style=plastic&logo=appveyor)
 
-![](https://img.shields.io/badge/Alipay-for--金主--爸-爸?logo=Alipay&style=plastic)
+![](https://img.shields.io/badge/Alipay-难搞-green?logo=Alipay&style=plastic)
 ---
 
 #### 介绍

@@ -2,8 +2,11 @@
 
 
 ![Github stars](https://img.shields.io/github/stars/Knight_jzc/fly-token?style=Rating)
+
 ![Github forks](https://img.shields.io/github/forks/Knight_jzc/fly-token?style=Rating)
+
 ![Github watchers](https://img.shields.io/github/watchers/Knight_jzc/fly-token?style=Rating)
+
 ![Github License](https://img.shields.io/hexpm/l/:Apache-2.0?style=License)
 
 ---

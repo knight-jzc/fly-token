@@ -1,0 +1,19 @@
+spring:
+  application:
+    name: fly-token-oauth
+  profiles:
+    active: dev
+  cloud:
+    nacos:
+      discovery:
+        namespace: 75e36098-6478-410a-b84a-6a6010f962fa
+        server-addr: localhost:8848
+      config:
+        server-addr: localhost:8848
+        file-extension: yaml
+        group: DEFAULT_GROUP
+        namespace: 75e36098-6478-410a-b84a-6a6010f962fa
+
+logging:
+  level:
+    spring: debug

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile default="true" name="Default" enabled="true" />
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="fly-token-oauth" />
+        <module name="fly-token-gateway" />
+        <module name="fly-token-admin" />
+        <module name="common-core" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="common-core" target="8" />
+      <module name="fly-token" target="1.8" />
+      <module name="fly-token-admin" target="8" />
+      <module name="fly-token-common" target="8" />
+      <module name="fly-token-gateway" target="8" />
+      <module name="fly-token-oauth" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="common-core" options="-parameters" />
+      <module name="fly-token-admin" options="-parameters" />
+      <module name="fly-token-common" options="-parameters" />
+      <module name="fly-token-gateway" options="-parameters" />
+      <module name="fly-token-oauth" options="-parameters" />
+    </option>
+  </component>
+</project>
